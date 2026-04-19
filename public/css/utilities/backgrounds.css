@@ -1,0 +1,33 @@
+/* background.css */
+/* section#longevityMedicine {
+    background-image: url('../../pages/medical-spa-services/media/longetivy-med.jpeg');
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+    background-position-x: 0%;
+    filter: saturate(1);
+    filter: brightness(1);
+} */
+.section#botoxAndFillers {
+    background-image: url('../../pages/medical-spa-services/media/botox-filler.webp');
+    background-repeat: no-repeat;
+    background-position-y: 30%;
+    background-position-x: 0%;
+    filter: grayscale(100%);
+}
+
+.contact-container {
+/* .contact-container>.address-num-container { */
+    background-image: url('../../imgs/rustic\ rockymoutains-1024.JPEG');
+    background-repeat: no-repeat;
+    background-position-y: 49%;
+    background-position-x: 0%;
+    filter: grayscale(50%);
+}
+/* .home-page-item{
+    background-image: url('../../imgs/facebook-page-imgs/spa-lade.jpg');
+    background-repeat: no-repeat;
+    background-position-y: 49%;
+    background-position-x: 0%;
+    filter: grayscale(50%);
+    background-size: 50%;
+} */
