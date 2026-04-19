@@ -17,6 +17,7 @@ const DEFAULT_PAGE =
 "pages/medical-spa-services/medical-spa-services.html";
 // "pages/products/products.html";
     // "pages/contact/contact.html";
+    
 const pageCache = new Map()
 document.addEventListener("submit", (e) => {
     if (e.target.id === "contact-form") {
